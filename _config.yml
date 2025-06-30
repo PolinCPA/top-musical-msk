@@ -1,0 +1,8 @@
+title: Мой сайт на GitHub Pages
+description: Это простой сайт с темой Merlot
+theme: jekyll-theme-merlot
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
